@@ -10,7 +10,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Le styles -->
-    <link href="{{ ASSET_PATH }}/css/normalize.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
 
     <!-- Le fav and touch icons -->
@@ -29,36 +28,21 @@
 
   <body>
     <header class="border_bottom">
-    <h1>
-      <a href="{{ HOME_PATH }}">{{ site.title }}</a>
-      <br />
-      A Blog of...
-    </h1>
-    <nav>
-      <a href="">Ideas</a> &amp;&amp;
-      <a href="">Code</a> &amp;&amp;
-      <a href="">Projects</a> &amp;&amp;
-      <a href="">Life</a>
-    </nav>
-  </header>
-    <div class="navbar">
-      <div class="navbar-inner">
-        <div class="container-narrow">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-          <ul class="nav">
-            {% assign pages_list = site.pages %}
-            {% assign group = 'navigation' %}
-            {% include JB/pages_list %}
-          </ul>
-        </div>
-      </div>
-    </div>
-
+      <h1>
+        <a href="{{ HOME_PATH }}">{{ site.title }}</a>
+        A Blog of{% if page.category %} {{ page.category | capitalize }}{% else %}...{% endif %}
+      </h1>
+      <nav>
+        <a href="/ideas/" class="{% if page.category == 'ideas' %}active{% endif %}">Ideas</a> &amp;&amp;
+        <a href="/code/" class="{% if page.category == 'code' %}active{% endif %}">Code</a> &amp;&amp;
+        <a href="/projects/" class="{% if page.category == 'projects' %}active{% endif %}">Projects</a> &amp;&amp;
+        <a href="/life/" class="{% if page.category == 'life' %}active{% endif %}">Life</a>
+      </nav>
+    </header>
     <div id="content">
       {{ content }}
     </div>
     <footer>
-      
       <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
         with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
       </p>
