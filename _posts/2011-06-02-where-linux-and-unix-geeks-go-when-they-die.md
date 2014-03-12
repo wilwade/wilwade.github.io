@@ -7,7 +7,7 @@ tags: [funny, Linux]
 ---
 {% include JB/setup %}
 
-![/dev/null]({{ site.url }}/assets/2011/NULL.jpg)
+![/dev/null](/assets/2011/NULL.jpg)
 
 If you do not get it, [http://en.wikipedia.org/wiki//dev/null](http://en.wikipedia.org/wiki//dev/null).
 
