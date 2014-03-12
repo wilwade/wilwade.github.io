@@ -16,35 +16,12 @@ Before we get to the numbers a few other notes for those who care. First this is
 Pre-Prime = September 2009 - February 2010 (Includes one a Christmas time, 7 months)
 Prime = September 2010 - February 2011 (Includes one Christmas time, 7 months)
 
-<table>
-    <thead><tr>
-    <th></th>
-    <th>Pre-Prime</th>
-    <th>Prime</th>
-    </tr></thead>
-<tbody>
-    <tr>
-        <th>Number of Purchases</th>
-        <td>18</td>
-        <td>24</td>
-    </tr>
-    <tr>
-        <th>Total Purchase Amount</th>
-        <td>$736</td>
-        <td>$618</td>
-    </tr>
-    <tr>
-        <th>Average Purchase Amount</th>
-        <td>$41</td>
-        <td>$26</td>
-    </tr>
-    <tr>
-        <th>Total Purchase Amount Excluding December</th>
-        <td>$373</td>
-        <td>$393</td>
-    </tr>
-</thead>
-</table>
+| | Pre-Prime | Prime 
+| ---: | --- | ---
+| **Number of Purchases** | 18 | 24
+| **Total Purchase Amount** | $736 | $618
+| **Average Purchase Amount** | $41 | $26<
+| **Total Purchase Amount Excluding December** | $373 | $393
 
 So there is not much that interesting. We spent less this year overall, but we have had less available money this past year as well (a smaller Christmas). A deeper study might look at our overall online purchasing to see if Amazon increased its share. (I know we are more likely to check Amazon for sure.) Once you take out December purchases we did spend more, so it looks like we are purchasing more "normal" stuff, like diapers, on Amazon.
 
