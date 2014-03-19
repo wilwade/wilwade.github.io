@@ -2,8 +2,8 @@
 layout: post
 title: "Time for Web Programmers to Try Desktop?"
 description: ""
-category: 
-tags: [web, ]
+category: Ideas
+tags: [web, html]
 ---
 {% include JB/setup %}
 

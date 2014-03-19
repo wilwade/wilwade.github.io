@@ -2,7 +2,7 @@
 layout: post
 title: "Browse the River Amazon"
 description: ""
-category: Code
+category: Projects
 tags: [BrowseTheRiver.com, sql]
 ---
 {% include JB/setup %}
