@@ -2,8 +2,8 @@
 layout: post
 title: "WBR: Mediaeval and Modern History"
 description: ""
-category: 
-tags: []
+category: Life
+tags: [wbr, history, old books]
 ---
 {% include JB/setup %}
 
