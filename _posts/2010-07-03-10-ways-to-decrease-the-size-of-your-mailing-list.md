@@ -11,9 +11,7 @@ It is always possible that you have gotten yourself into the position that you h
 
 1. The easiest way is to just delete email addresses. This may however be hard to bring yourself to do. Another way to do it is just "forget" to backup and erase all your files. This may have the unintended consequence of removing other files.
 2. Send out a email in error, and then send 3-10 emails apologizing for the one sent in "error".
-3. {% raw %}
-<li>Send an email in <strong>text format</strong>, however with html<br /> coding all over the place.</li>
-{% endraw %}
+3. `<li>`Send an email in `<strong>`text format`</strong>`, however with html`<br>` coding all over the place.`</li>`
 4. Send ? an email ? and include ? lots of special ???  ?characters? from ? a font ? that no one has, thus showing ? in their place? ??????? ?also shown as a ??
 5. Send an email every hour on the hour, telling the time.
 6. Create your email in Photoshop, export it, and just send the image.

@@ -19,7 +19,7 @@ Solving problems is what technology is all about. Unimaginable solutions that so
  * You enjoy simple solutions that solve complex problems.
  * You are interested in the history of technology.
 
-Out of print, buy it used on Amazon: The Elegant Solution: The Stories Behind Six of the Most Exciting Engineering Breakthroughs of Our Time
+Out of print, buy it used on Amazon: [The Elegant Solution: The Stories Behind Six of the Most Exciting Engineering Breakthroughs of Our Time](http://www.amazon.com/gp/product/B000CNKM0S/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000CNKM0S&linkCode=as2&tag=without-20)
 
 ---
 

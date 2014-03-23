@@ -7,7 +7,8 @@ tags: [wbr, history, civil war, spies]
 ---
 {% include JB/setup %}
 
-<iframe class="float_right" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;Operation=GetAdHtml&amp;amp;ID=OneJS&amp;amp;OneJS=1&amp;amp;source=ss&amp;amp;ref=ss_til&amp;amp;ad_type=product_link&amp;amp;tracking_id=without-20&amp;amp;marketplace=amazon&amp;amp;region=US&amp;amp;placement=B001Q91J4K&amp;amp;asins=B001Q91J4K&amp;amp;show_border=true&amp;amp;link_opens_in_new_window=true&amp;amp;MarketPlace=US"></iframe>
+<iframe class="float_right" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="http://ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;Operation=GetAdHtml&amp;ID=OneJS&amp;OneJS=1&amp;source=ss&amp;ref=ss_til&amp;ad_type=product_link&amp;tracking_id=without-20&amp;marketplace=amazon&amp;region=US&amp;placement=B001Q91J4K&amp;asins=B001Q91J4K&amp;show_border=true&amp;link_opens_in_new_window=true&amp;MarketPlace=US">
+</iframe>
 Confederate Agent by James D. Horan recounts the history of the Confederate spies and rogues, mostly in the mid-western states and the tale of the Northwest Conspiracy. Mostly following the exploits of [Thomas Hines](http://en.wikipedia.org/wiki/Thomas_Hines), and [John Hunt Morgan](http://en.wikipedia.org/wiki/John_Hunt_Morgan).
 
 The book is historically accurate, but is written in the narrative form, building as story that engages and flows. I did not know that much about covert Civil War operations, and had not heard anything about the attacks on New York in 1864, or the capture of a ship by Confederates on the Great Lakes. Although published in 1954, the narrative tone sets this history above others as both a great read and great history.
